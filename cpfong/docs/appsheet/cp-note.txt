@@ -1,0 +1,10 @@
+Q: appsheet from where?
+A: it is there in the net and google brought it 
+
+Q: why appsheet?
+A: g sheet is a DB, appsheet is a UI
+connect a GUI with DB and via mobile device (iphone APP)
+
+Q: simple example
+A:
+write your heart beat into gSheet and display on your iPhone app
